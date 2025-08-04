@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.DisciteOmnes" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.DisciteOmnes" parent="Base.Theme.DisciteOmnes" />
+
+    <style name="BottomNavTextStyle" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

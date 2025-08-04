@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="priority_levels">
+        <item>hoch</item>
+        <item>mittel</item>
+        <item>niedrig</item>
+    </string-array>
+    <string-array name="priorities_array">
+        <item>hoch</item>
+        <item>mittel</item>
+        <item>niedrig</item>
+    </string-array>
+
+</resources>

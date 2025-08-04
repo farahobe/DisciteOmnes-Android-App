@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Testuser",
+      "email": "test@test.de",
+      "password": "test123"
+    },
+    {
+      "id": "2",
+      "email": "far437833@gmail.com",
+      "name": "fara",
+      "password": "123"
+    },
+    {
+      "id": 0,
+      "email": "farahobeid23@gmail.com",
+      "name": "hsud",
+      "password": "12344"
+    }
+  ],
+  "groups": [],
+  "tasks": [
+    {
+      "id": "1",
+      "groupId": 1,
+      "title": "Erste Aufgabe",
+      "description": "Lernziel 1",
+      "completed": false
+    }
+  ]
+}

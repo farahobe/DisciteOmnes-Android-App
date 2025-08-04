@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="🏠"/>
+    <item
+        android:id="@+id/nav_groups"
+        android:title="👥"/>
+    <item
+        android:id="@+id/nav_tasks"
+        android:title="📋"/>
+    <item
+        android:id="@+id/nav_progress"
+        android:title="📈"/>
+</menu>
